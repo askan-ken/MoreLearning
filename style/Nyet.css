@@ -1,0 +1,42 @@
+.myBG {
+    height: 100vh;
+    background: url("../asset/bg/pastel.jpg");
+    background-size: cover;
+}
+.foot {
+    height: 100%;
+    background: url("../asset/bg/pastel.jpg");
+    background-size: cover;
+}
+
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 5px 5px #45526C;
+    color: #C8F2EF;
+    letter-spacing: 1px;
+}
+
+.horror {
+    height: auto;
+    background: url("../asset/bg/pastel.jpg");
+    background-size: cover;
+}
+.anoWrap {
+    height: auto;
+    padding: 5px;
+
+}
+.romance {
+    height: auto;
+    background: url("../asset/bg/pastel.jpg");
+    background-size: cover;
+}
